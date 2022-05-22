@@ -28,7 +28,7 @@
    - Sensor analógico de temperatura
    - Modulo Buzzer
    <br>
-   [
+   
 ![Ideia B](https://user-images.githubusercontent.com/65293071/169718452-af59911f-7ba4-4904-9846-aae5a6ab6cb6.jpg)
    
    Essa imagem demonstra uma sala de aula, que ao mexer na janela ou deixar muito tempo a porta aberta, o sensor analógico de temperatura, irá captar a medição do ambiente, se estiver quente conforme os parâmetros definidos, o sistema irá enviar um alerta (modulo buzzer) para que seja corrigido a situação o quanto antes.

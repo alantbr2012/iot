@@ -21,6 +21,7 @@
 
 # **PROPOSTA DE SISTEMA MONITORAMENTO DE TEMPERATURA EM SALA DE AULA**
 ===============================================================================
+
   Nas escolas que possuem ar-condicionado em salas, é comum as crianças e/ou jovens mexerem na janela com a intenção de abrir ou deixar muito tempo a porta da sala aberta, o que acaba prejudicando o ar-condicionado, resultando perda total ou manutenção exagerada em determinado perído. Considerando isso, seria interessante um projeto que fizesse o controle do acesso as janelas e tempo que a porta da referida sala permanecesse aberta.
   <br>
    Essa aplicação irá depender de sensores que faça este controle, tais como:
